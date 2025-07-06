@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/siddharth-saraf-stockmcp-badge.png)](https://mseep.ai/app/siddharth-saraf-stockmcp)
+
 # Stock API Service
 A simple API service that retrieves stock price information using the Yahoo Finance API through a FastMCP-based API. It uses yfinance to retrieve detailed information about stocks when provided with a ticker symbol.
 
